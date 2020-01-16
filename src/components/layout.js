@@ -12,15 +12,14 @@ function Layout({ children }) {
         {children}
       </main>
 
-      <footer className="bg-blue-700">
+      <footer className="bg-light-slate-gray">
         <nav className="flex justify-between max-w-4xl mx-auto p-4 md:p-8 text-sm">
           <p className="text-white">
             Created by{` `}
             <a
               className="font-bold no-underline text-white"
-              href="https://bryant.io"
             >
-              Taylor Bryant
+              John Nevin
             </a>
           </p>
 
